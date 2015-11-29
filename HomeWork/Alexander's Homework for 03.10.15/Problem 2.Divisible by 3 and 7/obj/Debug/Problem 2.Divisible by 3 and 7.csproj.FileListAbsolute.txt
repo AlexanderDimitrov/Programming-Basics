@@ -1,0 +1,6 @@
+c:\C#Project\Alexander's Homework for 03.10.15\Problem 2.Divisible by 3 and 7\bin\Debug\Problem 2.Divisible by 3 and 7.exe.config
+c:\C#Project\Alexander's Homework for 03.10.15\Problem 2.Divisible by 3 and 7\bin\Debug\Problem 2.Divisible by 3 and 7.exe
+c:\C#Project\Alexander's Homework for 03.10.15\Problem 2.Divisible by 3 and 7\bin\Debug\Problem 2.Divisible by 3 and 7.pdb
+c:\C#Project\Alexander's Homework for 03.10.15\Problem 2.Divisible by 3 and 7\obj\Debug\Problem 2.Divisible by 3 and 7.csprojResolveAssemblyReference.cache
+c:\C#Project\Alexander's Homework for 03.10.15\Problem 2.Divisible by 3 and 7\obj\Debug\Problem 2.Divisible by 3 and 7.exe
+c:\C#Project\Alexander's Homework for 03.10.15\Problem 2.Divisible by 3 and 7\obj\Debug\Problem 2.Divisible by 3 and 7.pdb

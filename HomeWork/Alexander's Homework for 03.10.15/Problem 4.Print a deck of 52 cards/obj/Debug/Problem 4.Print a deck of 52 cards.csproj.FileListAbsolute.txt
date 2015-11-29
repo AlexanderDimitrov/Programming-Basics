@@ -1,0 +1,6 @@
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 4.Print a deck of 52 cards\bin\Debug\Problem 4.Print a deck of 52 cards.exe.config
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 4.Print a deck of 52 cards\bin\Debug\Problem 4.Print a deck of 52 cards.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 4.Print a deck of 52 cards\bin\Debug\Problem 4.Print a deck of 52 cards.pdb
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 4.Print a deck of 52 cards\obj\Debug\Problem 4.Print a deck of 52 cards.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 4.Print a deck of 52 cards\obj\Debug\Problem 4.Print a deck of 52 cards.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 4.Print a deck of 52 cards\obj\Debug\Problem 4.Print a deck of 52 cards.pdb

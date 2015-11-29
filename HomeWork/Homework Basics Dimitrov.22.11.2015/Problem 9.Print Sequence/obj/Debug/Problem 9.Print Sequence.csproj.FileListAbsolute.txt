@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 9.Print Sequence\bin\Debug\Problem 9.Print Sequence.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 9.Print Sequence\bin\Debug\Problem 9.Print Sequence.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 9.Print Sequence\bin\Debug\Problem 9.Print Sequence.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 9.Print Sequence\obj\Debug\Problem 9.Print Sequence.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 9.Print Sequence\obj\Debug\Problem 9.Print Sequence.pdb

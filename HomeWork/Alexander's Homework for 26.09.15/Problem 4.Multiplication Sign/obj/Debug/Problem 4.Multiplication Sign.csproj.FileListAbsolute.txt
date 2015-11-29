@@ -1,0 +1,6 @@
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 4.Multiplication Sign\bin\Debug\Problem 4.Multiplication Sign.exe.config
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 4.Multiplication Sign\bin\Debug\Problem 4.Multiplication Sign.exe
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 4.Multiplication Sign\bin\Debug\Problem 4.Multiplication Sign.pdb
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 4.Multiplication Sign\obj\Debug\Problem 4.Multiplication Sign.exe
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 4.Multiplication Sign\obj\Debug\Problem 4.Multiplication Sign.pdb
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 4.Multiplication Sign\obj\Debug\Problem 4.Multiplication Sign.csprojResolveAssemblyReference.cache

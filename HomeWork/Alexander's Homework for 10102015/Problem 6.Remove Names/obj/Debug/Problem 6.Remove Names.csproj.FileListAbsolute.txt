@@ -1,0 +1,5 @@
+c:\C#Project\Alexander's Homework for 10102015\Problem 6.Remove Names\bin\Debug\Problem 6.Remove Names.exe.config
+c:\C#Project\Alexander's Homework for 10102015\Problem 6.Remove Names\bin\Debug\Problem 6.Remove Names.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 6.Remove Names\bin\Debug\Problem 6.Remove Names.pdb
+c:\C#Project\Alexander's Homework for 10102015\Problem 6.Remove Names\obj\Debug\Problem 6.Remove Names.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 6.Remove Names\obj\Debug\Problem 6.Remove Names.pdb

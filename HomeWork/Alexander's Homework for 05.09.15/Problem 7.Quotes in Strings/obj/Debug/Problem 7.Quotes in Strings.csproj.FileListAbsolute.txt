@@ -1,0 +1,6 @@
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 7.Quotes in Strings\bin\Debug\Problem 7.Quotes in Strings.exe.config
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 7.Quotes in Strings\bin\Debug\Problem 7.Quotes in Strings.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 7.Quotes in Strings\bin\Debug\Problem 7.Quotes in Strings.pdb
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 7.Quotes in Strings\obj\Debug\Problem 7.Quotes in Strings.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 7.Quotes in Strings\obj\Debug\Problem 7.Quotes in Strings.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 7.Quotes in Strings\obj\Debug\Problem 7.Quotes in Strings.pdb

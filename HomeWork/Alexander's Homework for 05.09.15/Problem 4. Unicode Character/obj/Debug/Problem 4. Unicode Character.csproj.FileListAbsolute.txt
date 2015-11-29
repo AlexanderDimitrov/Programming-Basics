@@ -1,0 +1,6 @@
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.pdb
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.exe
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.pdb
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 4. Unicode Character\obj\Debug\Problem 4. Unicode Character.csprojResolveAssemblyReference.cache

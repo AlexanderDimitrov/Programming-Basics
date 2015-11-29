@@ -1,0 +1,5 @@
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 9.Echange Variable Values\bin\Debug\Problem 9.Echange Variable Values.exe.config
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 9.Echange Variable Values\bin\Debug\Problem 9.Echange Variable Values.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 9.Echange Variable Values\bin\Debug\Problem 9.Echange Variable Values.pdb
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 9.Echange Variable Values\obj\Debug\Problem 9.Echange Variable Values.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 9.Echange Variable Values\obj\Debug\Problem 9.Echange Variable Values.pdb

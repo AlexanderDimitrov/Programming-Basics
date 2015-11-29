@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem13. Comparing Floats\bin\Debug\Problem13.Comparing_Floats.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem13. Comparing Floats\bin\Debug\Problem13.Comparing_Floats.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem13. Comparing Floats\bin\Debug\Problem13.Comparing_Floats.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem13. Comparing Floats\obj\Debug\Problem13. Comparing Floats.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem13. Comparing Floats\obj\Debug\Problem13.Comparing_Floats.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem13. Comparing Floats\obj\Debug\Problem13.Comparing_Floats.pdb

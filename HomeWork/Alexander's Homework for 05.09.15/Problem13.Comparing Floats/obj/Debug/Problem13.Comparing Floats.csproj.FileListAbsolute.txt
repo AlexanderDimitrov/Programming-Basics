@@ -1,0 +1,6 @@
+C:\C#Project\Alexander's Homework for 05.09.15\Problem13.Comparing Floats\bin\Debug\Problem13.Comparing Floats.exe.config
+C:\C#Project\Alexander's Homework for 05.09.15\Problem13.Comparing Floats\bin\Debug\Problem13.Comparing Floats.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem13.Comparing Floats\bin\Debug\Problem13.Comparing Floats.pdb
+C:\C#Project\Alexander's Homework for 05.09.15\Problem13.Comparing Floats\obj\Debug\Problem13.Comparing Floats.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem13.Comparing Floats\obj\Debug\Problem13.Comparing Floats.pdb
+C:\C#Project\Alexander's Homework for 05.09.15\Problem13.Comparing Floats\obj\Debug\Problem13.Comparing Floats.csprojResolveAssemblyReference.cache

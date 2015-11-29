@@ -1,0 +1,6 @@
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 10.Employee Data\bin\Debug\Problem 10.Employee Data.exe.config
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 10.Employee Data\bin\Debug\Problem 10.Employee Data.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 10.Employee Data\bin\Debug\Problem 10.Employee Data.pdb
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 10.Employee Data\obj\Debug\Problem10.Employee Data.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 10.Employee Data\obj\Debug\Problem 10.Employee Data.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem 10.Employee Data\obj\Debug\Problem 10.Employee Data.pdb

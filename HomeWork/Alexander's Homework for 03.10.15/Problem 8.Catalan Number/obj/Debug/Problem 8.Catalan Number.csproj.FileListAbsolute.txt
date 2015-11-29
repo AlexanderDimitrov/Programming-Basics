@@ -1,0 +1,6 @@
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 8.Catalan Number\bin\Debug\Problem 8.Catalan Number.exe.config
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 8.Catalan Number\bin\Debug\Problem 8.Catalan Number.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 8.Catalan Number\bin\Debug\Problem 8.Catalan Number.pdb
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 8.Catalan Number\obj\Debug\Problem 8.Catalan Number.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 8.Catalan Number\obj\Debug\Problem 8.Catalan Number.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 8.Catalan Number\obj\Debug\Problem 8.Catalan Number.pdb

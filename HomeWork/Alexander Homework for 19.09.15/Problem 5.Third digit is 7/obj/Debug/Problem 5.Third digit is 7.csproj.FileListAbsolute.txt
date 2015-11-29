@@ -1,0 +1,6 @@
+C:\C#Project\Alexander Homework for 19.09.15\Problem 5.Third digit is 7\bin\Debug\Problem 5.Third digit is 7.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Problem 5.Third digit is 7\bin\Debug\Problem 5.Third digit is 7.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 5.Third digit is 7\bin\Debug\Problem 5.Third digit is 7.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem 5.Third digit is 7\obj\Debug\Problem 5.Third digit is 7.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Homework for 19.09.15\Problem 5.Third digit is 7\obj\Debug\Problem 5.Third digit is 7.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 5.Third digit is 7\obj\Debug\Problem 5.Third digit is 7.pdb

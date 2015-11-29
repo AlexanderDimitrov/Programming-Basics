@@ -1,0 +1,5 @@
+c:\C#Project\Alexander's Homework for 10102015\Problem 4.Matrix of Palindromes\bin\Debug\Problem 4.Matrix of Palindromes.exe.config
+c:\C#Project\Alexander's Homework for 10102015\Problem 4.Matrix of Palindromes\bin\Debug\Problem 4.Matrix of Palindromes.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 4.Matrix of Palindromes\bin\Debug\Problem 4.Matrix of Palindromes.pdb
+c:\C#Project\Alexander's Homework for 10102015\Problem 4.Matrix of Palindromes\obj\Debug\Problem 4.Matrix of Palindromes.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 4.Matrix of Palindromes\obj\Debug\Problem 4.Matrix of Palindromes.pdb

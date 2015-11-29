@@ -1,0 +1,6 @@
+c:\C#Project\Alexander's Homework for 10102015\Alexander's Homework for 10102015\obj\Debug\Problem 2.Sorting Numbers.csprojResolveAssemblyReference.cache
+c:\C#Project\Alexander's Homework for 10102015\Alexander's Homework for 10102015\bin\Debug\Alexander's Homework for 10102015.exe.config
+c:\C#Project\Alexander's Homework for 10102015\Alexander's Homework for 10102015\bin\Debug\Alexander's Homework for 10102015.exe
+c:\C#Project\Alexander's Homework for 10102015\Alexander's Homework for 10102015\bin\Debug\Alexander's Homework for 10102015.pdb
+c:\C#Project\Alexander's Homework for 10102015\Alexander's Homework for 10102015\obj\Debug\Alexander's Homework for 10102015.exe
+c:\C#Project\Alexander's Homework for 10102015\Alexander's Homework for 10102015\obj\Debug\Alexander's Homework for 10102015.pdb

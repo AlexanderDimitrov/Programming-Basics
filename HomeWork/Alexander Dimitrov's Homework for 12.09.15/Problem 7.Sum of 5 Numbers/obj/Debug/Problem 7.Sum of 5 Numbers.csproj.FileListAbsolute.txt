@@ -1,0 +1,6 @@
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 7.Sum of 5 Numbers\bin\Debug\Problem 7.Sum of 5 Numbers.exe.config
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 7.Sum of 5 Numbers\bin\Debug\Problem 7.Sum of 5 Numbers.exe
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 7.Sum of 5 Numbers\bin\Debug\Problem 7.Sum of 5 Numbers.pdb
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 7.Sum of 5 Numbers\obj\Debug\Problem 7.Sum of 5 Numbers.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 7.Sum of 5 Numbers\obj\Debug\Problem 7.Sum of 5 Numbers.exe
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 7.Sum of 5 Numbers\obj\Debug\Problem 7.Sum of 5 Numbers.pdb

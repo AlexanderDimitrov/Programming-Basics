@@ -1,0 +1,5 @@
+C:\C#Project\Alexander's Homework for 03.10.15\Problem17.Calculate GCD\bin\Debug\Problem17.Calculate GCD.exe.config
+C:\C#Project\Alexander's Homework for 03.10.15\Problem17.Calculate GCD\bin\Debug\Problem17.Calculate GCD.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem17.Calculate GCD\bin\Debug\Problem17.Calculate GCD.pdb
+C:\C#Project\Alexander's Homework for 03.10.15\Problem17.Calculate GCD\obj\Debug\Problem17.Calculate GCD.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem17.Calculate GCD\obj\Debug\Problem17.Calculate GCD.pdb

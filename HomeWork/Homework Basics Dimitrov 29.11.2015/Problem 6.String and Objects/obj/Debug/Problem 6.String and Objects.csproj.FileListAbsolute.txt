@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 6.String and Objects\bin\Debug\Problem 6.String and Objects.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 6.String and Objects\bin\Debug\Problem 6.String and Objects.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 6.String and Objects\bin\Debug\Problem 6.String and Objects.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 6.String and Objects\obj\Debug\Problem 6.String and Objects.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 6.String and Objects\obj\Debug\Problem 6.String and Objects.pdb

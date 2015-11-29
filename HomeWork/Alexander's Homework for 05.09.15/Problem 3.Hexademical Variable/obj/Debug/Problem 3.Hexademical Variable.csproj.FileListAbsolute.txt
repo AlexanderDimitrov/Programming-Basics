@@ -1,0 +1,5 @@
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 3.Hexademical Variable\bin\Debug\Problem 3.Hexademical Variable.exe.config
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 3.Hexademical Variable\bin\Debug\Problem 3.Hexademical Variable.exe
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 3.Hexademical Variable\bin\Debug\Problem 3.Hexademical Variable.pdb
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 3.Hexademical Variable\obj\Debug\Problem 3.Hexademical Variable.exe
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 3.Hexademical Variable\obj\Debug\Problem 3.Hexademical Variable.pdb

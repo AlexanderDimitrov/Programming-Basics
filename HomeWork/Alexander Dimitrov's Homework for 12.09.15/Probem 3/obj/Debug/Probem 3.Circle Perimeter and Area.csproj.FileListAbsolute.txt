@@ -1,0 +1,12 @@
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Probem 3\bin\Debug\Probem 3.exe.config
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Probem 3\bin\Debug\Probem 3.exe
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Probem 3\bin\Debug\Probem 3.pdb
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Probem 3\obj\Debug\Probem 3.Circle Perimeter and Area.csprojResolveAssemblyReference.cache
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Probem 3\obj\Debug\Probem 3.exe
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Probem 3\obj\Debug\Probem 3.pdb
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Probem 3\bin\Debug\Probem 3.exe.config
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Probem 3\obj\Debug\Probem 3.exe
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Probem 3\obj\Debug\Probem 3.pdb
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Probem 3\bin\Debug\Probem 3.exe
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Probem 3\bin\Debug\Probem 3.pdb
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Probem 3\obj\Debug\Probem 3.Circle Perimeter and Area.csprojResolveAssemblyReference.cache

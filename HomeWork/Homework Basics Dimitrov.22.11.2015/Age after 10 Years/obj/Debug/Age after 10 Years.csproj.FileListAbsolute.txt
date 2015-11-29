@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Age after 10 Years\bin\Debug\Age after 10 Years.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Age after 10 Years\bin\Debug\Age after 10 Years.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Age after 10 Years\bin\Debug\Age after 10 Years.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Age after 10 Years\obj\Debug\Age after 10 Years.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Age after 10 Years\obj\Debug\Age after 10 Years.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Age after 10 Years\obj\Debug\Age after 10 Years.pdb

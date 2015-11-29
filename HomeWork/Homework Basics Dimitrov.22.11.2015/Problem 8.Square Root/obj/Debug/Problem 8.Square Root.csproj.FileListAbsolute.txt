@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 8.Square Root\bin\Debug\Problem 8.Square Root.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 8.Square Root\bin\Debug\Problem 8.Square Root.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 8.Square Root\bin\Debug\Problem 8.Square Root.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 8.Square Root\obj\Debug\Problem 8.Square Root.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 8.Square Root\obj\Debug\Problem 8.Square Root.pdb

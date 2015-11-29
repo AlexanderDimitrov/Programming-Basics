@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Homework Basics Dimitrov.22.11.2015\bin\Debug\Homework Basics Dimitrov.22.11.2015.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Homework Basics Dimitrov.22.11.2015\bin\Debug\Homework Basics Dimitrov.22.11.2015.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Homework Basics Dimitrov.22.11.2015\bin\Debug\Homework Basics Dimitrov.22.11.2015.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Homework Basics Dimitrov.22.11.2015\obj\Debug\Homework Basics Dimitrov.22.11.2015.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Homework Basics Dimitrov.22.11.2015\obj\Debug\Homework Basics Dimitrov.22.11.2015.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Homework Basics Dimitrov.22.11.2015\obj\Debug\Homework Basics Dimitrov.22.11.2015.pdb

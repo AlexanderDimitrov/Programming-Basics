@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 4.Unicode Character\bin\Debug\Problem 4.Unicode Character.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 4.Unicode Character\bin\Debug\Problem 4.Unicode Character.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 4.Unicode Character\bin\Debug\Problem 4.Unicode Character.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 4.Unicode Character\obj\Debug\Problem 4.Unicode Character.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 4.Unicode Character\obj\Debug\Problem 4.Unicode Character.pdb

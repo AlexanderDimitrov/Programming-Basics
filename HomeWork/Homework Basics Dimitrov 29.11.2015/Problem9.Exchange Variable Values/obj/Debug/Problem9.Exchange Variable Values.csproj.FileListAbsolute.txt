@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem9.Exchange Variable Values\bin\Debug\Problem9.Exchange Variable Values.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem9.Exchange Variable Values\obj\Debug\Problem9.Exchange Variable Values.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem9.Exchange Variable Values\bin\Debug\Problem9.Exchange Variable Values.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem9.Exchange Variable Values\bin\Debug\Problem9.Exchange Variable Values.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem9.Exchange Variable Values\obj\Debug\Problem9.Exchange Variable Values.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem9.Exchange Variable Values\obj\Debug\Problem9.Exchange Variable Values.pdb

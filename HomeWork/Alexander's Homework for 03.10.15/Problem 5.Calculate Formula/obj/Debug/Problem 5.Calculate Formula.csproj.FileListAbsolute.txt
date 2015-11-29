@@ -1,0 +1,5 @@
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 5.Calculate Formula\bin\Debug\Problem 5.Calculate Formula.exe.config
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 5.Calculate Formula\bin\Debug\Problem 5.Calculate Formula.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 5.Calculate Formula\bin\Debug\Problem 5.Calculate Formula.pdb
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 5.Calculate Formula\obj\Debug\Problem 5.Calculate Formula.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem 5.Calculate Formula\obj\Debug\Problem 5.Calculate Formula.pdb

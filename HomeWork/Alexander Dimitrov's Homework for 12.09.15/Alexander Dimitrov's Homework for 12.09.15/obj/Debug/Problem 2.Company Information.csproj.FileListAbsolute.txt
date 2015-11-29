@@ -1,0 +1,6 @@
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Alexander Dimitrov's Homework for 12.09.15\bin\Debug\Alexander Dimitrov's Homework for 12.09.15.exe.config
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Alexander Dimitrov's Homework for 12.09.15\bin\Debug\Alexander Dimitrov's Homework for 12.09.15.exe
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Alexander Dimitrov's Homework for 12.09.15\bin\Debug\Alexander Dimitrov's Homework for 12.09.15.pdb
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Alexander Dimitrov's Homework for 12.09.15\obj\Debug\Problem 2.Company Information.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Alexander Dimitrov's Homework for 12.09.15\obj\Debug\Alexander Dimitrov's Homework for 12.09.15.exe
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Alexander Dimitrov's Homework for 12.09.15\obj\Debug\Alexander Dimitrov's Homework for 12.09.15.pdb

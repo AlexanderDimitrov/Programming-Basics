@@ -1,0 +1,5 @@
+c:\C#Project\Alexander's Homework for 10102015\Problem 8\bin\Debug\Problem 8.exe.config
+c:\C#Project\Alexander's Homework for 10102015\Problem 8\bin\Debug\Problem 8.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 8\bin\Debug\Problem 8.pdb
+c:\C#Project\Alexander's Homework for 10102015\Problem 8\obj\Debug\Problem 8.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 8\obj\Debug\Problem 8.pdb

@@ -1,0 +1,5 @@
+c:\C#Project\Alexander's Homework for 10102015\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\C#Project\Alexander's Homework for 10102015\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\C#Project\Alexander's Homework for 10102015\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\C#Project\Alexander's Homework for 10102015\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\C#Project\Alexander's Homework for 10102015\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

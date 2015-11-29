@@ -1,0 +1,6 @@
+c:\C#Project\Alexander's Homework for 10102015\Problem 3.Longest area in array\bin\Debug\Problem 3.Longest area in array.exe.config
+c:\C#Project\Alexander's Homework for 10102015\Problem 3.Longest area in array\bin\Debug\Problem 3.Longest area in array.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 3.Longest area in array\bin\Debug\Problem 3.Longest area in array.pdb
+c:\C#Project\Alexander's Homework for 10102015\Problem 3.Longest area in array\obj\Debug\Problem 3.Longest area in array.csprojResolveAssemblyReference.cache
+c:\C#Project\Alexander's Homework for 10102015\Problem 3.Longest area in array\obj\Debug\Problem 3.Longest area in array.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 3.Longest area in array\obj\Debug\Problem 3.Longest area in array.pdb

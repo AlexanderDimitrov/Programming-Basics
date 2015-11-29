@@ -1,0 +1,5 @@
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 1.Sum of 3 Number\bin\Debug\Problem 1.Sum of 3 Number.exe.config
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 1.Sum of 3 Number\bin\Debug\Problem 1.Sum of 3 Number.exe
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 1.Sum of 3 Number\bin\Debug\Problem 1.Sum of 3 Number.pdb
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 1.Sum of 3 Number\obj\Debug\Problem 1.Sum of 3 Number.exe
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Problem 1.Sum of 3 Number\obj\Debug\Problem 1.Sum of 3 Number.pdb

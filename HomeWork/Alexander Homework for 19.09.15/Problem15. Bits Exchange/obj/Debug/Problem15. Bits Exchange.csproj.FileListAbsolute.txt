@@ -1,0 +1,12 @@
+C:\C#Project\Alexander Homework for 19.09.15\Problem15. Bits Exchange\bin\Debug\Problem15.Bits_Exchange.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Problem15. Bits Exchange\bin\Debug\Problem15.Bits_Exchange.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem15. Bits Exchange\bin\Debug\Problem15.Bits_Exchange.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem15. Bits Exchange\obj\Debug\Problem15.Bits_Exchange.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem15. Bits Exchange\obj\Debug\Problem15.Bits_Exchange.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem15. Bits Exchange\obj\Debug\Problem15. Bits Exchange.csprojResolveAssemblyReference.cache
+C:\Users\IluvzherMuch\Desktop\Alexander Homework for 19.09.15\Problem15. Bits Exchange\bin\Debug\Problem15.Bits_Exchange.exe.config
+C:\Users\IluvzherMuch\Desktop\Alexander Homework for 19.09.15\Problem15. Bits Exchange\obj\Debug\Problem15.Bits_Exchange.exe
+C:\Users\IluvzherMuch\Desktop\Alexander Homework for 19.09.15\Problem15. Bits Exchange\obj\Debug\Problem15.Bits_Exchange.pdb
+C:\Users\IluvzherMuch\Desktop\Alexander Homework for 19.09.15\Problem15. Bits Exchange\bin\Debug\Problem15.Bits_Exchange.exe
+C:\Users\IluvzherMuch\Desktop\Alexander Homework for 19.09.15\Problem15. Bits Exchange\bin\Debug\Problem15.Bits_Exchange.pdb
+C:\Users\IluvzherMuch\Desktop\Alexander Homework for 19.09.15\Problem15. Bits Exchange\obj\Debug\Problem15. Bits Exchange.csprojResolveAssemblyReference.cache

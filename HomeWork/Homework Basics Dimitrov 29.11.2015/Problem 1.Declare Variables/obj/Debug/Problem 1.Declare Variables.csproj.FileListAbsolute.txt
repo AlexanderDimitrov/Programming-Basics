@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 1.Declare Variables\bin\Debug\Problem 1.Declare Variables.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 1.Declare Variables\bin\Debug\Problem 1.Declare Variables.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 1.Declare Variables\bin\Debug\Problem 1.Declare Variables.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 1.Declare Variables\obj\Debug\Problem 1.Declare Variables.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 1.Declare Variables\obj\Debug\Problem 1.Declare Variables.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 1.Declare Variables\obj\Debug\Problem 1.Declare Variables.pdb
