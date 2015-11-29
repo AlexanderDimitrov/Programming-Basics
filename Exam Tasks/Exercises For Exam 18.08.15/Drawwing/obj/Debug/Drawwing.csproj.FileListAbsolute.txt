@@ -1,0 +1,6 @@
+C:\C#Project\Exercises For Exam 18.08.15\Drawwing\bin\Debug\Drawwing.exe.config
+C:\C#Project\Exercises For Exam 18.08.15\Drawwing\obj\Debug\Drawwing.exe
+C:\C#Project\Exercises For Exam 18.08.15\Drawwing\obj\Debug\Drawwing.pdb
+C:\C#Project\Exercises For Exam 18.08.15\Drawwing\obj\Debug\Drawwing.csprojResolveAssemblyReference.cache
+C:\C#Project\Exercises For Exam 18.08.15\Drawwing\bin\Debug\Drawwing.exe
+C:\C#Project\Exercises For Exam 18.08.15\Drawwing\bin\Debug\Drawwing.pdb

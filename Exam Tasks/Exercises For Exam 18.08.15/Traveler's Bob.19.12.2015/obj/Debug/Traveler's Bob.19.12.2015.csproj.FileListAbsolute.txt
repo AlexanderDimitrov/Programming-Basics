@@ -1,0 +1,6 @@
+C:\C#Project\Exercises For Exam 18.08.15\Traveler's Bob.19.12.2015\bin\Debug\Traveler's Bob.19.12.2015.exe.config
+C:\C#Project\Exercises For Exam 18.08.15\Traveler's Bob.19.12.2015\bin\Debug\Traveler's Bob.19.12.2015.exe
+C:\C#Project\Exercises For Exam 18.08.15\Traveler's Bob.19.12.2015\bin\Debug\Traveler's Bob.19.12.2015.pdb
+C:\C#Project\Exercises For Exam 18.08.15\Traveler's Bob.19.12.2015\obj\Debug\Traveler's Bob.19.12.2015.csprojResolveAssemblyReference.cache
+C:\C#Project\Exercises For Exam 18.08.15\Traveler's Bob.19.12.2015\obj\Debug\Traveler's Bob.19.12.2015.exe
+C:\C#Project\Exercises For Exam 18.08.15\Traveler's Bob.19.12.2015\obj\Debug\Traveler's Bob.19.12.2015.pdb

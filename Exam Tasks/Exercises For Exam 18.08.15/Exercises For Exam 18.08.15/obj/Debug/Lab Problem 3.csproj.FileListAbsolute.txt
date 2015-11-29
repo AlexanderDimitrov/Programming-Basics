@@ -1,0 +1,6 @@
+c:\C#Project\Exercises For Exam 18.08.15\Exercises For Exam 18.08.15\bin\Debug\Exercises For Exam 18.08.15.exe.config
+c:\C#Project\Exercises For Exam 18.08.15\Exercises For Exam 18.08.15\bin\Debug\Exercises For Exam 18.08.15.exe
+c:\C#Project\Exercises For Exam 18.08.15\Exercises For Exam 18.08.15\bin\Debug\Exercises For Exam 18.08.15.pdb
+c:\C#Project\Exercises For Exam 18.08.15\Exercises For Exam 18.08.15\obj\Debug\Lab Problem 3.csprojResolveAssemblyReference.cache
+c:\C#Project\Exercises For Exam 18.08.15\Exercises For Exam 18.08.15\obj\Debug\Exercises For Exam 18.08.15.exe
+c:\C#Project\Exercises For Exam 18.08.15\Exercises For Exam 18.08.15\obj\Debug\Exercises For Exam 18.08.15.pdb

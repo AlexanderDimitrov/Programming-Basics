@@ -1,0 +1,9 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\Exam Tasks\bin\Debug\Exam Tasks.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\Exam Tasks\bin\Debug\Exam Tasks.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\Exam Tasks\bin\Debug\Exam Tasks.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\Exam Tasks\obj\Debug\Exam Tasks.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\Exam Tasks\obj\Debug\Exam Tasks.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\Exam Tasks\obj\Debug\Exam Tasks.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\Exam Tasks\Exam Tasks\bin\Debug\Exam Tasks.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\Exam Tasks\Exam Tasks\obj\Debug\Exam Tasks.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\Exam Tasks\Exam Tasks\obj\Debug\Exam Tasks.pdb

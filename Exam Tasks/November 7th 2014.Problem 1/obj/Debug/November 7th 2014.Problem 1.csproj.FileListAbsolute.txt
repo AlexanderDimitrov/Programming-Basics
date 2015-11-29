@@ -1,0 +1,9 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\November 7th 2014.Problem 1\bin\Debug\November 7th 2014.Problem 1.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\November 7th 2014.Problem 1\bin\Debug\November 7th 2014.Problem 1.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\November 7th 2014.Problem 1\bin\Debug\November 7th 2014.Problem 1.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\November 7th 2014.Problem 1\obj\Debug\November 7th 2014.Problem 1.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\November 7th 2014.Problem 1\obj\Debug\November 7th 2014.Problem 1.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Exam Tasks\November 7th 2014.Problem 1\obj\Debug\November 7th 2014.Problem 1.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\Exam Tasks\November 7th 2014.Problem 1\bin\Debug\November 7th 2014.Problem 1.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\Exam Tasks\November 7th 2014.Problem 1\obj\Debug\November 7th 2014.Problem 1.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\Exam Tasks\November 7th 2014.Problem 1\obj\Debug\November 7th 2014.Problem 1.pdb

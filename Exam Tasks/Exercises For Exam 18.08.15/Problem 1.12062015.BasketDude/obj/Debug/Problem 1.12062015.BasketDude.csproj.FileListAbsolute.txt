@@ -1,0 +1,6 @@
+C:\C#Project\Exercises For Exam 18.08.15\Problem 1.12062015.BasketDude\bin\Debug\Problem 1.12062015.BasketDude.exe.config
+C:\C#Project\Exercises For Exam 18.08.15\Problem 1.12062015.BasketDude\bin\Debug\Problem 1.12062015.BasketDude.exe
+C:\C#Project\Exercises For Exam 18.08.15\Problem 1.12062015.BasketDude\bin\Debug\Problem 1.12062015.BasketDude.pdb
+C:\C#Project\Exercises For Exam 18.08.15\Problem 1.12062015.BasketDude\obj\Debug\Problem 1.12062015.BasketDude.csprojResolveAssemblyReference.cache
+C:\C#Project\Exercises For Exam 18.08.15\Problem 1.12062015.BasketDude\obj\Debug\Problem 1.12062015.BasketDude.exe
+C:\C#Project\Exercises For Exam 18.08.15\Problem 1.12062015.BasketDude\obj\Debug\Problem 1.12062015.BasketDude.pdb

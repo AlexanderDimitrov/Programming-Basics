@@ -1,0 +1,5 @@
+C:\C#Project\Exercises For Exam 18.08.15\drawwing2\bin\Debug\drawwing2.exe.config
+C:\C#Project\Exercises For Exam 18.08.15\drawwing2\bin\Debug\drawwing2.exe
+C:\C#Project\Exercises For Exam 18.08.15\drawwing2\bin\Debug\drawwing2.pdb
+C:\C#Project\Exercises For Exam 18.08.15\drawwing2\obj\Debug\drawwing2.exe
+C:\C#Project\Exercises For Exam 18.08.15\drawwing2\obj\Debug\drawwing2.pdb
