@@ -1,0 +1,6 @@
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 7.Sort 3 Number with nested ifs\bin\Debug\Problem 7.Sort 3 Number with nested ifs.exe.config
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 7.Sort 3 Number with nested ifs\bin\Debug\Problem 7.Sort 3 Number with nested ifs.exe
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 7.Sort 3 Number with nested ifs\bin\Debug\Problem 7.Sort 3 Number with nested ifs.pdb
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 7.Sort 3 Number with nested ifs\obj\Debug\Problem 7.Sort 3 Number with nested ifs.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 7.Sort 3 Number with nested ifs\obj\Debug\Problem 7.Sort 3 Number with nested ifs.exe
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 7.Sort 3 Number with nested ifs\obj\Debug\Problem 7.Sort 3 Number with nested ifs.pdb

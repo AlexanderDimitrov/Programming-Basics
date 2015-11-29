@@ -1,0 +1,6 @@
+c:\C#Project\Alexander's Homework for 05.09.15\Alexander's Homework for 05.09.15\bin\Debug\Alexander's Homework for 05.09.15.exe.config
+c:\C#Project\Alexander's Homework for 05.09.15\Alexander's Homework for 05.09.15\bin\Debug\Alexander's Homework for 05.09.15.exe
+c:\C#Project\Alexander's Homework for 05.09.15\Alexander's Homework for 05.09.15\bin\Debug\Alexander's Homework for 05.09.15.pdb
+c:\C#Project\Alexander's Homework for 05.09.15\Alexander's Homework for 05.09.15\obj\Debug\Alexander's Homework for 05.09.15.csprojResolveAssemblyReference.cache
+c:\C#Project\Alexander's Homework for 05.09.15\Alexander's Homework for 05.09.15\obj\Debug\Alexander's Homework for 05.09.15.exe
+c:\C#Project\Alexander's Homework for 05.09.15\Alexander's Homework for 05.09.15\obj\Debug\Alexander's Homework for 05.09.15.pdb

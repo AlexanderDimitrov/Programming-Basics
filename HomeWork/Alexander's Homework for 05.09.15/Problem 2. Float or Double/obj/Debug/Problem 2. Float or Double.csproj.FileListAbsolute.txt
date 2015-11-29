@@ -1,0 +1,5 @@
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe.config
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.exe
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 2. Float or Double\bin\Debug\Problem_2.Float_or_Double.pdb
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.exe
+c:\C#Project\Alexander's Homework for 05.09.15\Problem 2. Float or Double\obj\Debug\Problem_2.Float_or_Double.pdb

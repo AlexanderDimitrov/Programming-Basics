@@ -1,0 +1,5 @@
+C:\C#Project\Alexander's Homework for 03.10.15\Problem15.Hexademical To Decimal\bin\Debug\Problem15.Hexademical To Decimal.exe.config
+C:\C#Project\Alexander's Homework for 03.10.15\Problem15.Hexademical To Decimal\bin\Debug\Problem15.Hexademical To Decimal.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem15.Hexademical To Decimal\bin\Debug\Problem15.Hexademical To Decimal.pdb
+C:\C#Project\Alexander's Homework for 03.10.15\Problem15.Hexademical To Decimal\obj\Debug\Problem15.Hexademical To Decimal.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem15.Hexademical To Decimal\obj\Debug\Problem15.Hexademical To Decimal.pdb

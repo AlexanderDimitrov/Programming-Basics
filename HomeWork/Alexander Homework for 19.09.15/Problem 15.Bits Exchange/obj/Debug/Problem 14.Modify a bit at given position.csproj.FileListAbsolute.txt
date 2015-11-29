@@ -1,0 +1,6 @@
+C:\C#Project\Alexander Homework for 19.09.15\Problem 15.Bits Exchange\bin\Debug\Problem 15.Bits Exchange.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Problem 15.Bits Exchange\bin\Debug\Problem 15.Bits Exchange.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 15.Bits Exchange\bin\Debug\Problem 15.Bits Exchange.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem 15.Bits Exchange\obj\Debug\Problem 14.Modify a bit at given position.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Homework for 19.09.15\Problem 15.Bits Exchange\obj\Debug\Problem 15.Bits Exchange.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 15.Bits Exchange\obj\Debug\Problem 15.Bits Exchange.pdb

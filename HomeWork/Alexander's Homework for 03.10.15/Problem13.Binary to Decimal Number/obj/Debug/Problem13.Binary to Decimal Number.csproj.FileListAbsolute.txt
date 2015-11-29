@@ -1,0 +1,5 @@
+C:\C#Project\Alexander's Homework for 03.10.15\Problem13.Binary to Decimal Number\bin\Debug\Problem13.Binary to Decimal Number.exe.config
+C:\C#Project\Alexander's Homework for 03.10.15\Problem13.Binary to Decimal Number\bin\Debug\Problem13.Binary to Decimal Number.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem13.Binary to Decimal Number\bin\Debug\Problem13.Binary to Decimal Number.pdb
+C:\C#Project\Alexander's Homework for 03.10.15\Problem13.Binary to Decimal Number\obj\Debug\Problem13.Binary to Decimal Number.exe
+C:\C#Project\Alexander's Homework for 03.10.15\Problem13.Binary to Decimal Number\obj\Debug\Problem13.Binary to Decimal Number.pdb

@@ -1,0 +1,8 @@
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Project4.Number Comparer2\bin\Debug\Project4.Number Comparer2.exe.config
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Project4.Number Comparer2\bin\Debug\Project4.Number Comparer2.exe
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Project4.Number Comparer2\bin\Debug\Project4.Number Comparer2.pdb
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Project4.Number Comparer2\obj\Debug\Project4.Number Comparer2.exe
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Project4.Number Comparer2\obj\Debug\Project4.Number Comparer2.pdb
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Project4.Number Comparer2\bin\Debug\Project4.Number Comparer2.exe.config
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Project4.Number Comparer2\obj\Debug\Project4.Number Comparer2.exe
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Project4.Number Comparer2\obj\Debug\Project4.Number Comparer2.pdb

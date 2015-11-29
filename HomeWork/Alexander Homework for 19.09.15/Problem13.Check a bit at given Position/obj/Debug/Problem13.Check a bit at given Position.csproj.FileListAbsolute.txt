@@ -1,0 +1,6 @@
+C:\C#Project\Alexander Homework for 19.09.15\Problem13.Check a bit at given Position\bin\Debug\Problem13.Check a bit at given Position.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Problem13.Check a bit at given Position\bin\Debug\Problem13.Check a bit at given Position.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem13.Check a bit at given Position\bin\Debug\Problem13.Check a bit at given Position.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem13.Check a bit at given Position\obj\Debug\Problem13.Check a bit at given Position.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Homework for 19.09.15\Problem13.Check a bit at given Position\obj\Debug\Problem13.Check a bit at given Position.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem13.Check a bit at given Position\obj\Debug\Problem13.Check a bit at given Position.pdb

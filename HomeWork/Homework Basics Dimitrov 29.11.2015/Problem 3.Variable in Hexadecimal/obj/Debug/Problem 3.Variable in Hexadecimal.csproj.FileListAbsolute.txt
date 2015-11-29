@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 3.Variable in Hexadecimal\bin\Debug\Problem 3.Variable in Hexadecimal.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 3.Variable in Hexadecimal\bin\Debug\Problem 3.Variable in Hexadecimal.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 3.Variable in Hexadecimal\bin\Debug\Problem 3.Variable in Hexadecimal.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 3.Variable in Hexadecimal\obj\Debug\Problem 3.Variable in Hexadecimal.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 3.Variable in Hexadecimal\obj\Debug\Problem 3.Variable in Hexadecimal.pdb

@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 5.Boolean Variable\bin\Debug\Problem 5.Boolean Variable.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 5.Boolean Variable\bin\Debug\Problem 5.Boolean Variable.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 5.Boolean Variable\bin\Debug\Problem 5.Boolean Variable.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 5.Boolean Variable\obj\Debug\Problem 5.Boolean Variable.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 5.Boolean Variable\obj\Debug\Problem 5.Boolean Variable.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem 5.Boolean Variable\obj\Debug\Problem 5.Boolean Variable.pdb

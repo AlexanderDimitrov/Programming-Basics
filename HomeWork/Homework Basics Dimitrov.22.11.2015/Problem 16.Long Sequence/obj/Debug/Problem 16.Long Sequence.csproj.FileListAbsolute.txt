@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 16.Long Sequence\bin\Debug\Problem 16.Long Sequence.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 16.Long Sequence\bin\Debug\Problem 16.Long Sequence.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 16.Long Sequence\bin\Debug\Problem 16.Long Sequence.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 16.Long Sequence\obj\Debug\Problem 16.Long Sequence.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 16.Long Sequence\obj\Debug\Problem 16.Long Sequence.pdb

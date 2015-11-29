@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem15.TorrentPirate\bin\Debug\Problem15.TorrentPirate.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem15.TorrentPirate\bin\Debug\Problem15.TorrentPirate.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem15.TorrentPirate\bin\Debug\Problem15.TorrentPirate.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem15.TorrentPirate\obj\Debug\Problem15.TorrentPirate.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem15.TorrentPirate\obj\Debug\Problem15.TorrentPirate.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem15.TorrentPirate\obj\Debug\Problem15.TorrentPirate.pdb

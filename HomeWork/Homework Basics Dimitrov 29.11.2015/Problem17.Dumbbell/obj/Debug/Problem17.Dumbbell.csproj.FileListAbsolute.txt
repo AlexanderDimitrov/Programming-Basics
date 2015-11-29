@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem17.Dumbbell\bin\Debug\Problem17.Dumbbell.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem17.Dumbbell\bin\Debug\Problem17.Dumbbell.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem17.Dumbbell\bin\Debug\Problem17.Dumbbell.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem17.Dumbbell\obj\Debug\Problem17.Dumbbell.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem17.Dumbbell\obj\Debug\Problem17.Dumbbell.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem17.Dumbbell\obj\Debug\Problem17.Dumbbell.pdb

@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 2.Blank Solution\bin\Debug\Problem 2.Blank Solution.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 2.Blank Solution\bin\Debug\Problem 2.Blank Solution.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 2.Blank Solution\bin\Debug\Problem 2.Blank Solution.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 2.Blank Solution\obj\Debug\Problem 2.Blank Solution.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Homework Basics Dimitrov.22.11.2015\Problem 2.Blank Solution\obj\Debug\Problem 2.Blank Solution.pdb

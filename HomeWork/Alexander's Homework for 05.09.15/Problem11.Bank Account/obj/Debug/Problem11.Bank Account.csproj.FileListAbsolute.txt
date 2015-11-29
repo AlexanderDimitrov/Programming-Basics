@@ -1,0 +1,5 @@
+C:\C#Project\Alexander's Homework for 05.09.15\Problem11.Bank Account\bin\Debug\Problem11.Bank Account.exe.config
+C:\C#Project\Alexander's Homework for 05.09.15\Problem11.Bank Account\bin\Debug\Problem11.Bank Account.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem11.Bank Account\bin\Debug\Problem11.Bank Account.pdb
+C:\C#Project\Alexander's Homework for 05.09.15\Problem11.Bank Account\obj\Debug\Problem11.Bank Account.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem11.Bank Account\obj\Debug\Problem11.Bank Account.pdb

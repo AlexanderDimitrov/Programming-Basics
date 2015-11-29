@@ -1,0 +1,6 @@
+C:\C#Project\Alexander Homework for 19.09.15\Problem 7.Point in a Circle\bin\Debug\Problem 7.Point in a Circle.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Problem 7.Point in a Circle\bin\Debug\Problem 7.Point in a Circle.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 7.Point in a Circle\bin\Debug\Problem 7.Point in a Circle.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem 7.Point in a Circle\obj\Debug\Problem 7.Point in a Circle.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Homework for 19.09.15\Problem 7.Point in a Circle\obj\Debug\Problem 7.Point in a Circle.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 7.Point in a Circle\obj\Debug\Problem 7.Point in a Circle.pdb

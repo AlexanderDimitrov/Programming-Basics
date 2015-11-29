@@ -1,0 +1,6 @@
+C:\C#Project\Alexander's Homework for 10102015\Problem 2.Sorting Numbers.Second Solution\bin\Debug\Problem 2.Sorting Numbers.Second Solution.exe.config
+C:\C#Project\Alexander's Homework for 10102015\Problem 2.Sorting Numbers.Second Solution\bin\Debug\Problem 2.Sorting Numbers.Second Solution.exe
+C:\C#Project\Alexander's Homework for 10102015\Problem 2.Sorting Numbers.Second Solution\bin\Debug\Problem 2.Sorting Numbers.Second Solution.pdb
+C:\C#Project\Alexander's Homework for 10102015\Problem 2.Sorting Numbers.Second Solution\obj\Debug\Problem 2.Sorting Numbers.Second Solution.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander's Homework for 10102015\Problem 2.Sorting Numbers.Second Solution\obj\Debug\Problem 2.Sorting Numbers.Second Solution.exe
+C:\C#Project\Alexander's Homework for 10102015\Problem 2.Sorting Numbers.Second Solution\obj\Debug\Problem 2.Sorting Numbers.Second Solution.pdb

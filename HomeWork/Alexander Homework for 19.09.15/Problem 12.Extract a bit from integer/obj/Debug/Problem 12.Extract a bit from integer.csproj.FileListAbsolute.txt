@@ -1,0 +1,5 @@
+C:\C#Project\Alexander Homework for 19.09.15\Problem 12.Extract a bit from integer\bin\Debug\Problem 12.Extract a bit from integer.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Problem 12.Extract a bit from integer\bin\Debug\Problem 12.Extract a bit from integer.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 12.Extract a bit from integer\bin\Debug\Problem 12.Extract a bit from integer.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem 12.Extract a bit from integer\obj\Debug\Problem 12.Extract a bit from integer.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 12.Extract a bit from integer\obj\Debug\Problem 12.Extract a bit from integer.pdb

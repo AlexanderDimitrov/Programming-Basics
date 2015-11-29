@@ -1,0 +1,5 @@
+c:\C#Project\Alexander's Homework for 10102015\Problem 7.Join Lists\bin\Debug\Problem 7.Join Lists.exe.config
+c:\C#Project\Alexander's Homework for 10102015\Problem 7.Join Lists\bin\Debug\Problem 7.Join Lists.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 7.Join Lists\bin\Debug\Problem 7.Join Lists.pdb
+c:\C#Project\Alexander's Homework for 10102015\Problem 7.Join Lists\obj\Debug\Problem 7.Join Lists.exe
+c:\C#Project\Alexander's Homework for 10102015\Problem 7.Join Lists\obj\Debug\Problem 7.Join Lists.pdb

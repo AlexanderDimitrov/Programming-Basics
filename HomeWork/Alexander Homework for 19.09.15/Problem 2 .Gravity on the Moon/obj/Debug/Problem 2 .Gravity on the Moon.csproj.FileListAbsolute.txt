@@ -1,0 +1,6 @@
+c:\C#Project\Alexander Homework for 19.09.15\Problem 2 .Gravity on the Moon\bin\Debug\Problem_2.Gravity_on_the_Moon.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Problem 2 .Gravity on the Moon\bin\Debug\Problem_2.Gravity_on_the_Moon.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 2 .Gravity on the Moon\bin\Debug\Problem_2.Gravity_on_the_Moon.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem 2 .Gravity on the Moon\obj\Debug\Problem 2 .Gravity on the Moon.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Homework for 19.09.15\Problem 2 .Gravity on the Moon\obj\Debug\Problem_2.Gravity_on_the_Moon.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 2 .Gravity on the Moon\obj\Debug\Problem_2.Gravity_on_the_Moon.pdb

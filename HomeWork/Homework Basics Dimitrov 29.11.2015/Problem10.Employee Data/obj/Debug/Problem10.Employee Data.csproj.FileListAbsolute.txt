@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem10.Employee Data\bin\Debug\Problem10.Employee Data.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem10.Employee Data\bin\Debug\Problem10.Employee Data.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem10.Employee Data\bin\Debug\Problem10.Employee Data.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem10.Employee Data\obj\Debug\Problem10.Employee Data.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem10.Employee Data\obj\Debug\Problem10.Employee Data.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Homework Basics Dimitrov 29.11.2015\Problem10.Employee Data\obj\Debug\Problem10.Employee Data.csprojResolveAssemblyReference.cache

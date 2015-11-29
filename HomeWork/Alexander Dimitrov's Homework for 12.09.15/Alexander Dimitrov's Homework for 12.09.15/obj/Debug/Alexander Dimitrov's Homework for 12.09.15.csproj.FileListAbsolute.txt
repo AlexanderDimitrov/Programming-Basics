@@ -1,0 +1,2 @@
+c:\users\evsky\documents\visual studio 2015\Projects\Alexander Dimitrov's Homework for 12.09.15\bin\Debug\Alexander Dimitrov's Homework for 12.09.15.exe.config
+C:\C#Project\Alexander Dimitrov's Homework for 12.09.15\Alexander Dimitrov's Homework for 12.09.15\bin\Debug\Alexander Dimitrov's Homework for 12.09.15.exe.config

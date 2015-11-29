@@ -1,0 +1,6 @@
+C:\C#Project\Alexander Homework for 19.09.15\Problem 4.Rectangles\bin\Debug\Problem 4.Rectangles.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Problem 4.Rectangles\bin\Debug\Problem 4.Rectangles.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 4.Rectangles\bin\Debug\Problem 4.Rectangles.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem 4.Rectangles\obj\Debug\Problem 4.Rectangles.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Homework for 19.09.15\Problem 4.Rectangles\obj\Debug\Problem 4.Rectangles.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 4.Rectangles\obj\Debug\Problem 4.Rectangles.pdb

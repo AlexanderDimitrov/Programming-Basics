@@ -1,0 +1,3 @@
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Probem 3\bin\Debug\Probem 3.exe.config
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Probem 3\obj\Debug\Probem 3.exe
+C:\Users\Evsky\Documents\Visual Studio 2015\Projects\Probem 3\obj\Debug\Probem 3.pdb

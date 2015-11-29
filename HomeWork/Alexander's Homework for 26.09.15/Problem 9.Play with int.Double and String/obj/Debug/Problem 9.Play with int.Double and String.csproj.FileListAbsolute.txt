@@ -1,0 +1,5 @@
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 9.Play with int.Double and String\bin\Debug\Problem 9.Play with int.Double and String.exe.config
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 9.Play with int.Double and String\bin\Debug\Problem 9.Play with int.Double and String.exe
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 9.Play with int.Double and String\bin\Debug\Problem 9.Play with int.Double and String.pdb
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 9.Play with int.Double and String\obj\Debug\Problem 9.Play with int.Double and String.exe
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 9.Play with int.Double and String\obj\Debug\Problem 9.Play with int.Double and String.pdb

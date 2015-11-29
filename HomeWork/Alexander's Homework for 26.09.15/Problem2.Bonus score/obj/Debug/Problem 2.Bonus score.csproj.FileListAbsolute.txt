@@ -1,0 +1,5 @@
+c:\C#Project\Alexander's Homework for 26.09.15\Problem2.Bonus score\bin\Debug\Problem2.Bonus score.exe.config
+c:\C#Project\Alexander's Homework for 26.09.15\Problem2.Bonus score\bin\Debug\Problem2.Bonus score.exe
+c:\C#Project\Alexander's Homework for 26.09.15\Problem2.Bonus score\bin\Debug\Problem2.Bonus score.pdb
+c:\C#Project\Alexander's Homework for 26.09.15\Problem2.Bonus score\obj\Debug\Problem2.Bonus score.exe
+c:\C#Project\Alexander's Homework for 26.09.15\Problem2.Bonus score\obj\Debug\Problem2.Bonus score.pdb

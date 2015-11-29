@@ -1,0 +1,6 @@
+C:\C#Project\Alexander Homework for 19.09.15\Problem 3.Divide by 7 and 5\bin\Debug\Problem 3.Divide by 7 and 5.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Problem 3.Divide by 7 and 5\bin\Debug\Problem 3.Divide by 7 and 5.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 3.Divide by 7 and 5\bin\Debug\Problem 3.Divide by 7 and 5.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Problem 3.Divide by 7 and 5\obj\Debug\Problem 3.Divide by 7 and 5.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Homework for 19.09.15\Problem 3.Divide by 7 and 5\obj\Debug\Problem 3.Divide by 7 and 5.exe
+C:\C#Project\Alexander Homework for 19.09.15\Problem 3.Divide by 7 and 5\obj\Debug\Problem 3.Divide by 7 and 5.pdb

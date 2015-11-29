@@ -1,0 +1,6 @@
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 8.Digit as word\bin\Debug\Problem 8.Digit as word.exe.config
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 8.Digit as word\bin\Debug\Problem 8.Digit as word.exe
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 8.Digit as word\bin\Debug\Problem 8.Digit as word.pdb
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 8.Digit as word\obj\Debug\Problem 8.Digit as word.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 8.Digit as word\obj\Debug\Problem 8.Digit as word.exe
+C:\C#Project\Alexander's Homework for 26.09.15\Problem 8.Digit as word\obj\Debug\Problem 8.Digit as word.pdb

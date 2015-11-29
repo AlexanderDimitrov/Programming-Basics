@@ -1,0 +1,6 @@
+C:\C#Project\Alexander Homework for 19.09.15\Program 6.Four-Digit Number\bin\Debug\Program 6.Four-Digit Number.exe.config
+C:\C#Project\Alexander Homework for 19.09.15\Program 6.Four-Digit Number\bin\Debug\Program 6.Four-Digit Number.exe
+C:\C#Project\Alexander Homework for 19.09.15\Program 6.Four-Digit Number\bin\Debug\Program 6.Four-Digit Number.pdb
+C:\C#Project\Alexander Homework for 19.09.15\Program 6.Four-Digit Number\obj\Debug\Program 6.Four-Digit Number.csprojResolveAssemblyReference.cache
+C:\C#Project\Alexander Homework for 19.09.15\Program 6.Four-Digit Number\obj\Debug\Program 6.Four-Digit Number.exe
+C:\C#Project\Alexander Homework for 19.09.15\Program 6.Four-Digit Number\obj\Debug\Program 6.Four-Digit Number.pdb

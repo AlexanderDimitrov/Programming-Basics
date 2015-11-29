@@ -1,0 +1,6 @@
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 3.Check for a play card\bin\Debug\Problem 3.Check for a play card.exe.config
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 3.Check for a play card\bin\Debug\Problem 3.Check for a play card.exe
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 3.Check for a play card\bin\Debug\Problem 3.Check for a play card.pdb
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 3.Check for a play card\obj\Debug\Problem 3.Check for a play card.csprojResolveAssemblyReference.cache
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 3.Check for a play card\obj\Debug\Problem 3.Check for a play card.exe
+c:\C#Project\Alexander's Homework for 26.09.15\Problem 3.Check for a play card\obj\Debug\Problem 3.Check for a play card.pdb

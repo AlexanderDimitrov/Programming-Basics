@@ -1,0 +1,5 @@
+C:\C#Project\Alexander's Homework for 05.09.15\Problem14.ASCII Table\bin\Debug\Problem14.ASCII Table.exe.config
+C:\C#Project\Alexander's Homework for 05.09.15\Problem14.ASCII Table\bin\Debug\Problem14.ASCII Table.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem14.ASCII Table\bin\Debug\Problem14.ASCII Table.pdb
+C:\C#Project\Alexander's Homework for 05.09.15\Problem14.ASCII Table\obj\Debug\Problem14.ASCII Table.exe
+C:\C#Project\Alexander's Homework for 05.09.15\Problem14.ASCII Table\obj\Debug\Problem14.ASCII Table.pdb
