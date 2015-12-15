@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem15.BitsExchange\bin\Debug\Problem15.BitsExchange.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem15.BitsExchange\bin\Debug\Problem15.BitsExchange.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem15.BitsExchange\bin\Debug\Problem15.BitsExchange.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem15.BitsExchange\obj\Debug\Problem15.BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem15.BitsExchange\obj\Debug\Problem15.BitsExchange.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem15.BitsExchange\obj\Debug\Problem15.BitsExchange.pdb

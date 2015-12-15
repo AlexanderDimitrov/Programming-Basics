@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 3. Divide By 7 and 5\bin\Debug\Problem_3.Divide_By_7_and_5.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 3. Divide By 7 and 5\bin\Debug\Problem_3.Divide_By_7_and_5.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 3. Divide By 7 and 5\bin\Debug\Problem_3.Divide_By_7_and_5.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 3. Divide By 7 and 5\obj\Debug\Problem_3.Divide_By_7_and_5.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 3. Divide By 7 and 5\obj\Debug\Problem_3.Divide_By_7_and_5.pdb

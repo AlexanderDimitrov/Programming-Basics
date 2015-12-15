@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 4.Rectangles\bin\Debug\Problem 4.Rectangles.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 4.Rectangles\bin\Debug\Problem 4.Rectangles.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 4.Rectangles\bin\Debug\Problem 4.Rectangles.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 4.Rectangles\obj\Debug\Problem 4.Rectangles.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 4.Rectangles\obj\Debug\Problem 4.Rectangles.pdb

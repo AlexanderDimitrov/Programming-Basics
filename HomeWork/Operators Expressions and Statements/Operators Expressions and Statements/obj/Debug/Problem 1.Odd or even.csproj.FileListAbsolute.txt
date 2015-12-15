@@ -1,0 +1,3 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Operators Expressions and Statements\bin\Debug\Operators Expressions and Statements.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Operators Expressions and Statements\obj\Debug\Operators Expressions and Statements.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Operators Expressions and Statements\obj\Debug\Operators Expressions and Statements.pdb

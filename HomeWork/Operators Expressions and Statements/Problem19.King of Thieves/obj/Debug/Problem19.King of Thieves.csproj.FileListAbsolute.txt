@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem19.King of Thieves\bin\Debug\Problem19.King of Thieves.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem19.King of Thieves\bin\Debug\Problem19.King of Thieves.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem19.King of Thieves\bin\Debug\Problem19.King of Thieves.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem19.King of Thieves\obj\Debug\Problem19.King of Thieves.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem19.King of Thieves\obj\Debug\Problem19.King of Thieves.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem19.King of Thieves\obj\Debug\Problem19.King of Thieves.pdb

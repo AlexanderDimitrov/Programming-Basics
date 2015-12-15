@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 7.Point in a Circle\bin\Debug\Problem 7.Point in a Circle.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 7.Point in a Circle\bin\Debug\Problem 7.Point in a Circle.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 7.Point in a Circle\bin\Debug\Problem 7.Point in a Circle.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 7.Point in a Circle\obj\Debug\Problem 7.Point in a Circle.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 7.Point in a Circle\obj\Debug\Problem 7.Point in a Circle.pdb

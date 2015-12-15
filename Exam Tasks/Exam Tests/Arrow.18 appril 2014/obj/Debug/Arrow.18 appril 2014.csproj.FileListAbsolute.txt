@@ -1,5 +1,0 @@
-c:\C#Project\Exam Tests\Arrow.18 appril 2014\bin\Debug\Arrow.18 appril 2014.exe.config
-c:\C#Project\Exam Tests\Arrow.18 appril 2014\bin\Debug\Arrow.18 appril 2014.exe
-c:\C#Project\Exam Tests\Arrow.18 appril 2014\bin\Debug\Arrow.18 appril 2014.pdb
-c:\C#Project\Exam Tests\Arrow.18 appril 2014\obj\Debug\Arrow.18 appril 2014.exe
-c:\C#Project\Exam Tests\Arrow.18 appril 2014\obj\Debug\Arrow.18 appril 2014.pdb

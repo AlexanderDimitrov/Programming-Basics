@@ -1,6 +1,0 @@
-c:\C#Project\Exam Tests\Exam Tests\bin\Debug\Exam Tests.exe.config
-c:\C#Project\Exam Tests\Exam Tests\bin\Debug\Exam Tests.exe
-c:\C#Project\Exam Tests\Exam Tests\bin\Debug\Exam Tests.pdb
-c:\C#Project\Exam Tests\Exam Tests\obj\Debug\Exam Tests.csprojResolveAssemblyReference.cache
-c:\C#Project\Exam Tests\Exam Tests\obj\Debug\Exam Tests.exe
-c:\C#Project\Exam Tests\Exam Tests\obj\Debug\Exam Tests.pdb

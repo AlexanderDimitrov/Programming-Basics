@@ -1,6 +1,0 @@
-c:\C#Project\Problem 3\Problem 3\bin\Debug\Problem 3.exe.config
-c:\C#Project\Problem 3\Problem 3\obj\Debug\Problem 3.exe
-c:\C#Project\Problem 3\Problem 3\obj\Debug\Problem 3.pdb
-c:\C#Project\Problem 3\Problem 3\obj\Debug\Problem 3.csprojResolveAssemblyReference.cache
-c:\C#Project\Problem 3\Problem 3\bin\Debug\Problem 3.exe
-c:\C#Project\Problem 3\Problem 3\bin\Debug\Problem 3.pdb

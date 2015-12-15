@@ -1,0 +1,5 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 2.Gravitation\bin\Debug\Problem 2.Gravitation.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 2.Gravitation\bin\Debug\Problem 2.Gravitation.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 2.Gravitation\bin\Debug\Problem 2.Gravitation.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 2.Gravitation\obj\Debug\Problem 2.Gravitation.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 2.Gravitation\obj\Debug\Problem 2.Gravitation.pdb

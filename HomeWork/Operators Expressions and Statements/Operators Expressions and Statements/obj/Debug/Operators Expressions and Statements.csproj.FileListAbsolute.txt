@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Operators Expressions and Statements\bin\Debug\Operators Expressions and Statements.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Operators Expressions and Statements\bin\Debug\Operators Expressions and Statements.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Operators Expressions and Statements\bin\Debug\Operators Expressions and Statements.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Operators Expressions and Statements\obj\Debug\Operators Expressions and Statements.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Operators Expressions and Statements\obj\Debug\Operators Expressions and Statements.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Operators Expressions and Statements\obj\Debug\Operators Expressions and Statements.pdb

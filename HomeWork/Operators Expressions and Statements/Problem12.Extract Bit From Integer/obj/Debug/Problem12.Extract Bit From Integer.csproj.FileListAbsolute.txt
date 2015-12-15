@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem12.Extract Bit From Integer\bin\Debug\Problem12.Extract Bit From Integer.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem12.Extract Bit From Integer\bin\Debug\Problem12.Extract Bit From Integer.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem12.Extract Bit From Integer\bin\Debug\Problem12.Extract Bit From Integer.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem12.Extract Bit From Integer\obj\Debug\Problem12.Extract Bit From Integer.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem12.Extract Bit From Integer\obj\Debug\Problem12.Extract Bit From Integer.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem12.Extract Bit From Integer\obj\Debug\Problem12.Extract Bit From Integer.pdb

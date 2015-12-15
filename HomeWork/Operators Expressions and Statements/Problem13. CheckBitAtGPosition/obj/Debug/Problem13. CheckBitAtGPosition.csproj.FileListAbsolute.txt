@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem13. CheckBitAtGPosition\bin\Debug\Problem13.CheckBitAtGPosition.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem13. CheckBitAtGPosition\bin\Debug\Problem13.CheckBitAtGPosition.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem13. CheckBitAtGPosition\bin\Debug\Problem13.CheckBitAtGPosition.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem13. CheckBitAtGPosition\obj\Debug\Problem13.CheckBitAtGPosition.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem13. CheckBitAtGPosition\obj\Debug\Problem13.CheckBitAtGPosition.pdb

@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Operators Expressions and Statements\Problem 6.Four Digit Number\bin\Debug\Problem 6.Four Digit Number.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 6.Four Digit Number\bin\Debug\Problem 6.Four Digit Number.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 6.Four Digit Number\bin\Debug\Problem 6.Four Digit Number.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 6.Four Digit Number\obj\Debug\Problem 6.Four Digit Number.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 6.Four Digit Number\obj\Debug\Problem 6.Four Digit Number.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem 6.Four Digit Number\obj\Debug\Problem 6.Four Digit Number.pdb

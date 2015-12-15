@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem14.ModifyBit\bin\Debug\Problem14.ModifyBit.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem14.ModifyBit\bin\Debug\Problem14.ModifyBit.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem14.ModifyBit\bin\Debug\Problem14.ModifyBit.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem14.ModifyBit\obj\Debug\Problem14.ModifyBit.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Operators Expressions and Statements\Problem14.ModifyBit\obj\Debug\Problem14.ModifyBit.pdb
