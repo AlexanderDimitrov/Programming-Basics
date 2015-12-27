@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem10.CheckIntegers\bin\Debug\Problem10.CheckIntegers.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem10.CheckIntegers\bin\Debug\Problem10.CheckIntegers.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem10.CheckIntegers\bin\Debug\Problem10.CheckIntegers.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem10.CheckIntegers\obj\Debug\Problem 10.CheckIntegers.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem10.CheckIntegers\obj\Debug\Problem10.CheckIntegers.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem10.CheckIntegers\obj\Debug\Problem10.CheckIntegers.pdb

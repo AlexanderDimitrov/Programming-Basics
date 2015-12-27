@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 18.Trailing Zeroes\bin\Debug\Problem 18.Trailing Zeroes.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 18.Trailing Zeroes\bin\Debug\Problem 18.Trailing Zeroes.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 18.Trailing Zeroes\bin\Debug\Problem 18.Trailing Zeroes.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 18.Trailing Zeroes\obj\Debug\Problem 18.Trailing Zeroes.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 18.Trailing Zeroes\obj\Debug\Problem 18.Trailing Zeroes.pdb

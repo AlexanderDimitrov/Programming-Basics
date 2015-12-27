@@ -1,0 +1,5 @@
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem1.Numbers 1 to n\bin\Debug\Problem1.Numbers 1 to n.exe.config
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem1.Numbers 1 to n\bin\Debug\Problem1.Numbers 1 to n.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem1.Numbers 1 to n\bin\Debug\Problem1.Numbers 1 to n.pdb
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem1.Numbers 1 to n\obj\Debug\Problem1.Numbers 1 to n.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem1.Numbers 1 to n\obj\Debug\Problem1.Numbers 1 to n.pdb

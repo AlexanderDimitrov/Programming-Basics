@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Cicles\Cicles\bin\Debug\Cicles.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Cicles\Cicles\bin\Debug\Cicles.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Cicles\Cicles\bin\Debug\Cicles.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Cicles\Cicles\obj\Debug\Cicles.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Cicles\Cicles\obj\Debug\Cicles.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Cicles\Cicles\obj\Debug\Cicles.pdb

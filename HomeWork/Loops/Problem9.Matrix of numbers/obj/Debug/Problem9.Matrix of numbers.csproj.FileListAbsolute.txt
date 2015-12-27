@@ -1,0 +1,6 @@
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem9.Matrix of numbers\bin\Debug\Problem9.Matrix of numbers.exe.config
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem9.Matrix of numbers\bin\Debug\Problem9.Matrix of numbers.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem9.Matrix of numbers\bin\Debug\Problem9.Matrix of numbers.pdb
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem9.Matrix of numbers\obj\Debug\Problem9.Matrix of numbers.csprojResolveAssemblyReference.cache
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem9.Matrix of numbers\obj\Debug\Problem9.Matrix of numbers.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem9.Matrix of numbers\obj\Debug\Problem9.Matrix of numbers.pdb

@@ -1,0 +1,5 @@
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem5.Calculate\bin\Debug\Problem5.Calculate.exe.config
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem5.Calculate\bin\Debug\Problem5.Calculate.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem5.Calculate\bin\Debug\Problem5.Calculate.pdb
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem5.Calculate\obj\Debug\Problem5.Calculate.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem5.Calculate\obj\Debug\Problem5.Calculate.pdb

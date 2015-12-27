@@ -1,0 +1,8 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 22.SummerTime\bin\Debug\Problem 22.SummerTime.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 22.SummerTime\bin\Debug\Problem 22.SummerTime.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 22.SummerTime\bin\Debug\Problem 22.SummerTime.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 22.SummerTime\obj\Debug\Problem 22.SummerTime.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 22.SummerTime\obj\Debug\Problem 22.SummerTime.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Loops\Problem 22.SummerTime\bin\Debug\Problem 22.SummerTime.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Loops\Problem 22.SummerTime\obj\Debug\Problem 22.SummerTime.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Loops\Problem 22.SummerTime\obj\Debug\Problem 22.SummerTime.pdb

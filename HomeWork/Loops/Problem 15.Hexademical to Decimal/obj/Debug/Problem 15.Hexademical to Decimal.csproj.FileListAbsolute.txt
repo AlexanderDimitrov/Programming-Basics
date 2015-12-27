@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 15.Hexademical to Decimal\bin\Debug\Problem 15.Hexademical to Decimal.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 15.Hexademical to Decimal\bin\Debug\Problem 15.Hexademical to Decimal.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 15.Hexademical to Decimal\bin\Debug\Problem 15.Hexademical to Decimal.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 15.Hexademical to Decimal\obj\Debug\Problem 15.Hexademical to Decimal.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 15.Hexademical to Decimal\obj\Debug\Problem 15.Hexademical to Decimal.pdb

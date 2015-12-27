@@ -1,0 +1,5 @@
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem4.Print a deck of 52cards\bin\Debug\Problem4.Print a deck of 52cards.exe.config
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem4.Print a deck of 52cards\bin\Debug\Problem4.Print a deck of 52cards.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem4.Print a deck of 52cards\bin\Debug\Problem4.Print a deck of 52cards.pdb
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem4.Print a deck of 52cards\obj\Debug\Problem4.Print a deck of 52cards.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem4.Print a deck of 52cards\obj\Debug\Problem4.Print a deck of 52cards.pdb

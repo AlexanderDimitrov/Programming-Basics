@@ -1,0 +1,5 @@
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem2.Divisible by 3 and 7\bin\Debug\Problem2.Divisible by 3 and 7.exe.config
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem2.Divisible by 3 and 7\bin\Debug\Problem2.Divisible by 3 and 7.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem2.Divisible by 3 and 7\bin\Debug\Problem2.Divisible by 3 and 7.pdb
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem2.Divisible by 3 and 7\obj\Debug\Problem2.Divisible by 3 and 7.exe
+c:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem2.Divisible by 3 and 7\obj\Debug\Problem2.Divisible by 3 and 7.pdb

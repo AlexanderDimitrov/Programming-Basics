@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 14.Decimal to Binary\bin\Debug\Problem 14.Decimal to Binary.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 14.Decimal to Binary\bin\Debug\Problem 14.Decimal to Binary.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 14.Decimal to Binary\bin\Debug\Problem 14.Decimal to Binary.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 14.Decimal to Binary\obj\Debug\Problem 14.Decimal to Binary.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 14.Decimal to Binary\obj\Debug\Problem 14.Decimal to Binary.pdb

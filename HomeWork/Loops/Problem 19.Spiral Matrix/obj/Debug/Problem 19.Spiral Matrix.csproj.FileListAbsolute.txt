@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 19.Spiral Matrix\bin\Debug\Problem 19.Spiral Matrix.exe.config
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 19.Spiral Matrix\bin\Debug\Problem 19.Spiral Matrix.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 19.Spiral Matrix\bin\Debug\Problem 19.Spiral Matrix.pdb
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 19.Spiral Matrix\obj\Debug\Problem 19.Spiral Matrix.exe
+C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 19.Spiral Matrix\obj\Debug\Problem 19.Spiral Matrix.pdb
