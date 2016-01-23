@@ -3,3 +3,6 @@ C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 20.Four Fa
 C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 20.Four Factors\bin\Debug\Problem 20.Four Factors.pdb
 C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 20.Four Factors\obj\Debug\Problem 20.Four Factors.exe
 C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 20.Four Factors\obj\Debug\Problem 20.Four Factors.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\HomeWork\Loops\Problem 20.Four Factors\bin\Debug\Problem 20.Four Factors.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\HomeWork\Loops\Problem 20.Four Factors\obj\Debug\Problem 20.Four Factors.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\HomeWork\Loops\Problem 20.Four Factors\obj\Debug\Problem 20.Four Factors.pdb

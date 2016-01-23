@@ -3,3 +3,6 @@ C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 12.Randomi
 C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 12.Randomize the Numbers\bin\Debug\Problem 12.Randomize the Numbers.pdb
 C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 12.Randomize the Numbers\obj\Debug\Problem 12.Randomize the Numbers.exe
 C:\Users\iLuvEvz\documents\visual studio 2015\Projects\Cicles\Problem 12.Randomize the Numbers\obj\Debug\Problem 12.Randomize the Numbers.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\HomeWork\Loops\Problem 12.Randomize the Numbers\bin\Debug\Problem 12.Randomize the Numbers.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\HomeWork\Loops\Problem 12.Randomize the Numbers\obj\Debug\Problem 12.Randomize the Numbers.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Programming Basics\HomeWork\Loops\Problem 12.Randomize the Numbers\obj\Debug\Problem 12.Randomize the Numbers.pdb

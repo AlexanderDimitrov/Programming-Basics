@@ -1,0 +1,6 @@
+c:\users\iluvevz\documents\visual studio 2015\Projects\Basic Exam 25.06.2015.Problem3\Basic Exam 25.06.2015.Problem3\bin\Debug\Basic Exam 25.06.2015.Problem3.exe.config
+c:\users\iluvevz\documents\visual studio 2015\Projects\Basic Exam 25.06.2015.Problem3\Basic Exam 25.06.2015.Problem3\bin\Debug\Basic Exam 25.06.2015.Problem3.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Basic Exam 25.06.2015.Problem3\Basic Exam 25.06.2015.Problem3\bin\Debug\Basic Exam 25.06.2015.Problem3.pdb
+c:\users\iluvevz\documents\visual studio 2015\Projects\Basic Exam 25.06.2015.Problem3\Basic Exam 25.06.2015.Problem3\obj\Debug\Basic Exam 25.06.2015.Problem3.csprojResolveAssemblyReference.cache
+c:\users\iluvevz\documents\visual studio 2015\Projects\Basic Exam 25.06.2015.Problem3\Basic Exam 25.06.2015.Problem3\obj\Debug\Basic Exam 25.06.2015.Problem3.exe
+c:\users\iluvevz\documents\visual studio 2015\Projects\Basic Exam 25.06.2015.Problem3\Basic Exam 25.06.2015.Problem3\obj\Debug\Basic Exam 25.06.2015.Problem3.pdb
